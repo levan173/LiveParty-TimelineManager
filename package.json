@@ -1,0 +1,18 @@
+{
+  "name": "com.liveparty.timelinemanager",
+  "version": "1.0.0",
+  "displayName": "LiveParty-TimelineManager",
+  "description": "DND game TimelineManager",
+  "unity": "2019.4",
+  "keywords": [
+    "LiveParty",
+    "TimelineManager"
+  ],
+  "author": {
+    "name": "Levan"
+  },
+  "type": "tool",
+  "dependencies": {
+    "com.unity.timeline": "1.2.16"
+  }
+}
